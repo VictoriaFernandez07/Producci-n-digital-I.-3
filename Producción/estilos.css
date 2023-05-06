@@ -1,0 +1,80 @@
+title{
+    background-color: #ffeddb;
+    text-decoration: black;
+    margin: auto;
+}
+@import url('https://fonts.googleapis.com/css2? family= Libre+Baskerville & display=swap');
+h1{
+    background-color: #ffeddb;
+    text-decoration: black;
+    justify-content: center; 
+    font-family: 'Libre Baskerville', serif;
+}
+@import url('https://fonts.googleapis.com/css2? family= Libre+Baskerville:ital@1 & display=swap');
+p{ 
+    background-color: #ffeddb;
+    text-decoration: black;
+    margin-left: 35%;
+    justify-content: center;
+    font-family: 'Libre Baskerville', serif;
+}
+body{
+    margin-left: auto;
+    max-width: fit-content;
+    background-color: #ffeddb;
+    align-items:flex-start;
+    justify-content: flex-end;
+    margin: auto; border-radius: 25px;
+    text-align: flex-end;
+    font-size: 25px;
+}
+a{ 
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+@import url('https://fonts.googleapis.com/css2? family= Montserrat & display=swap');
+.nav{
+    font-family:'Montserrat', sans-serif;
+    display: flex;
+    width: 1080px;
+    height: 100px;
+    flex-wrap: wrap;
+    flex-flow: row;
+    justify-content: space-around;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: #ffeddb;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer{
+    background-color:#e3b7a0; 
+    text-align: center;
+    height: 1080px;
+    height: 150px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Iconos-sociales{
+    background-color:#e3b7a0; 
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 14px 16px;
+}
